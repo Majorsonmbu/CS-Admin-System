@@ -1,0 +1,13 @@
+.toolbar {
+  background-color: #222f3e;
+  color: white;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 11px;
+}
+
+.toolbar-title {
+  padding-right: 800px;
+}

@@ -1,0 +1,132 @@
+/* SIDEBAR STYLING ATTRIBUTES */
+.sidebar {
+  position: relative;
+  background-color: #222f3e;
+  color: white;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.sidebar li {
+  list-style: none;
+  padding: 1rem 2rem;
+  border-bottom: solid #ffffff1a 1px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-weight: 300;
+}
+
+.join-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.extension-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.waiver-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.concession-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.dispute-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.missing-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.sidebar li:hover {
+  color: black;
+  cursor: pointer;
+}
+
+/* ********** SIDEBAR STYLING ATTRIBUTES END********** */
+
+.b1 {
+  padding: 1rem 2rem;
+  border-bottom: solid rgba(255, 255, 255, 0.1) 1px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-weight: 300;
+
+  text-align: center;
+  margin-bottom: 8px;
+  width: 280px;
+  font-weight: 300;
+  border-radius: 10px;
+  display: inline-block;
+  height: 30px;
+  background-color: #222f3e;
+  color: white;
+  margin-bottom: 5px;
+  border: solid;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  transition: transform 0.4s;
+}
+
+.b2 {
+  padding: 1rem 2rem;
+  border-bottom: solid rgba(255, 255, 255, 0.1) 1px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-weight: 300;
+
+  text-align: center;
+  margin-bottom: 8px;
+  width: 280px;
+  font-weight: 300;
+  border-radius: 10px;
+  display: inline-block;
+  height: 30px;
+  background-color: #222f3e;
+  color: white;
+  margin-bottom: 5px;
+  border: solid;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  transition: transform 0.4s;
+}
+
+.queryButton {
+  padding: 1rem 2rem;
+  border-bottom: solid rgba(255, 255, 255, 0.1) 1px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-weight: 300;
+  font-size: medium;
+  text-align: center;
+  margin-bottom: 8px;
+  width: 280px;
+  font-weight: 300;
+  border-radius: 10px;
+  display: inline-block;
+  height: 30px;
+  background-color: #222f3e;
+  color: white;
+  margin-bottom: 5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  transition: transform 0.2s;
+}

@@ -1,0 +1,83 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: lightgray;
+  background-image: url(../images/uctStockPhoto.jpg);
+}
+
+.sub-main {
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207 207 207);
+  padding-top: 30px;
+  border-radius: 60px;
+  background-color: white;
+}
+
+.imgs {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+input {
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+
+.studentId {
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 5px 0px 0px 25px;
+}
+
+.studentText {
+  padding-left: 70px;
+  font-size: 20px;
+}
+
+.secondInput {
+  padding-top: 20px;
+}
+
+.login_button {
+  padding-top: 25px;
+}
+
+.buttonColour {
+  background-color: #222f3e;
+  padding: 1rem 2rem;
+  border-bottom: solid rgba(255, 255, 255, 0.1) 1px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-weight: 300;
+  font-size: large;
+  text-align: center;
+  margin-bottom: 8px;
+  width: 280px;
+  font-weight: 300;
+  border-radius: 10px;
+  display: inline-block;
+  height: 30px;
+  background-color: #222f3e;
+  color: white;
+  margin-bottom: 5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  cursor: pointer;
+}
+
+.register-text {
+  color: #222f3e;
+}
